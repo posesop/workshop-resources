@@ -1,0 +1,247 @@
+[
+  {
+    "city": "Madrid",
+    "lat": 40.4,
+    "long": -3.6834
+  },
+  {
+    "city": "Barcelona",
+    "lat": 41.3833,
+    "long": 2.1834
+  },
+  {
+    "city": "Sevilla",
+    "lat": 37.405,
+    "long": -5.98
+  },
+  {
+    "city": "Bilbao",
+    "lat": 43.25,
+    "long": -2.93
+  },
+  {
+    "city": "Valencia",
+    "lat": 39.485,
+    "long": -0.4
+  },
+  {
+    "city": "Zaragoza",
+    "lat": 41.65,
+    "long": -0.89
+  },
+  {
+    "city": "Malaga",
+    "lat": 36.7204,
+    "long": -4.42
+  },
+  {
+    "city": "Murcia",
+    "lat": 37.98,
+    "long": -1.13
+  },
+  {
+    "city": "Granada",
+    "lat": 37.165,
+    "long": -3.585
+  },
+  {
+    "city": "Vigo",
+    "lat": 42.22,
+    "long": -8.73
+  },
+  {
+    "city": "Las Palmas de Gran Canaria",
+    "lat": 28.1,
+    "long": -15.43
+  },
+  {
+    "city": "Palma",
+    "lat": 39.5743,
+    "long": 2.6542
+  },
+  {
+    "city": "A Coruna",
+    "lat": 43.33,
+    "long": -8.42
+  },
+  {
+    "city": "Donostia",
+    "lat": 43.3204,
+    "long": -1.98
+  },
+  {
+    "city": "Santa Cruz de Tenerife",
+    "lat": 28.47,
+    "long": -16.25
+  },
+  {
+    "city": "Gijon",
+    "lat": 43.53,
+    "long": -5.67
+  },
+  {
+    "city": "Valladolid",
+    "lat": 41.65,
+    "long": -4.75
+  },
+  {
+    "city": "Cordoba",
+    "lat": 37.88,
+    "long": -4.77
+  },
+  {
+    "city": "Alicante",
+    "lat": 38.3512,
+    "long": -0.4836
+  },
+  {
+    "city": "Cadiz",
+    "lat": 36.535,
+    "long": -6.225
+  },
+  {
+    "city": "Pamplona",
+    "lat": 42.82,
+    "long": -1.65
+  },
+  {
+    "city": "Oviedo",
+    "lat": 43.3505,
+    "long": -5.83
+  },
+  {
+    "city": "Vitoria-Gasteiz",
+    "lat": 42.85,
+    "long": -2.67
+  },
+  {
+    "city": "Santander",
+    "lat": 43.3805,
+    "long": -3.8
+  },
+  {
+    "city": "Cartagena",
+    "lat": 37.6004,
+    "long": -0.98
+  },
+  {
+    "city": "Marbella",
+    "lat": 36.5166,
+    "long": -4.8833
+  },
+  {
+    "city": "Mataro",
+    "lat": 41.54,
+    "long": 2.45
+  },
+  {
+    "city": "Castellon de la Plana",
+    "lat": 39.9704,
+    "long": -0.05
+  },
+  {
+    "city": "Almeria",
+    "lat": 36.8303,
+    "long": -2.43
+  },
+  {
+    "city": "Burgos",
+    "lat": 42.3504,
+    "long": -3.68
+  },
+  {
+    "city": "Salamanca",
+    "lat": 40.9704,
+    "long": -5.67
+  },
+  {
+    "city": "Albacete",
+    "lat": 39.0003,
+    "long": -1.87
+  },
+  {
+    "city": "Huelva",
+    "lat": 37.2504,
+    "long": -6.9299
+  },
+  {
+    "city": "Logrono",
+    "lat": 42.4704,
+    "long": -2.43
+  },
+  {
+    "city": "Ciudad de Melilla",
+    "lat": 35.3,
+    "long": -2.95
+  },
+  {
+    "city": "Badajoz",
+    "lat": 38.8804,
+    "long": -6.97
+  },
+  {
+    "city": "Leon",
+    "lat": 42.58,
+    "long": -5.57
+  },
+  {
+    "city": "Tarragona",
+    "lat": 41.1204,
+    "long": 1.25
+  },
+  {
+    "city": "Ourense",
+    "lat": 42.33,
+    "long": -7.87
+  },
+  {
+    "city": "Jaen",
+    "lat": 37.7704,
+    "long": -3.8
+  },
+  {
+    "city": "Algeciras",
+    "lat": 36.1267,
+    "long": -5.4665
+  },
+  {
+    "city": "Santiago de Compostela",
+    "lat": 42.8829,
+    "long": -8.5411
+  },
+  {
+    "city": "Ciudad de Ceuta",
+    "lat": 35.889,
+    "long": -5.307
+  },
+  {
+    "city": "Toledo",
+    "lat": 39.867,
+    "long": -4.0167
+  },
+  {
+    "city": "Arrecife",
+    "lat": 28.969,
+    "long": -13.5378
+  },
+  {
+    "city": "Merida",
+    "lat": 38.912,
+    "long": -6.338
+  },
+  {
+    "city": "Lorca",
+    "lat": 37.6886,
+    "long": -1.6985
+  },
+  {
+    "city": "Guadalajara",
+    "lat": 40.6337,
+    "long": -3.1666
+  },
+  {
+    "city": "Linares",
+    "lat": 38.0833,
+    "long": -3.6334
+  }
+]
